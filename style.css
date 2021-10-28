@@ -106,12 +106,11 @@ body
 {
      align-items: center;
      margin-top: 40px;
-     margin-left: 70px;
 }
 .radio img
 {
      height: 45px;
-     margin-left: 60px;
+     margin-left: 42%;
 }
 .radio p
 {
@@ -119,13 +118,14 @@ body
      margin-top: 5px;
      font-size: 13px;
      font-weight: bold;
+     text-align: center;
 }
 
 .controlButtons
 {
      display: flex;
      align-items: center;
-     margin-left: 60px;
+     margin-left: 50px;
 }
 .divBut
 {
