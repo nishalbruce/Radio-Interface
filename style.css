@@ -13,9 +13,9 @@ body
 .box
 {
      background-color: #121212;
-     margin: 3% 35%;
+     margin: 1% 37%;
      width: 24%;
-     height: 600px;
+     height: 620px;
 }
 .menu
 {
@@ -72,12 +72,15 @@ body
 .vertic p
 {
      color: #414141;
+     font-size: 27px;
+     font-family: Segoe UI;
+     letter-spacing: -2px;
 }
 .vertic span
 {
      color: #F25365;
      text-shadow: #F25365 1px 0px 5px;
-     font-size: 40px;
+     font-size: 60px;
 }
 .div
 {
@@ -92,7 +95,7 @@ body
 }
 .first
 {
-     margin-right: 223px;
+     margin-right: 240px;
 }
 .radio
 {
@@ -124,7 +127,6 @@ body
 {
      background-color: #414141;
      margin-right: 25px;
-     /* height: 10px; */
      width: 25px;
      padding: 10px;
      border-radius: 50%;
@@ -139,9 +141,12 @@ body
 }
 #divBut
 {
-     /* height: 25px; */
      width: 60px;
      padding: 5px;
 }
 
+@media screen and (min-width: 100px) and (max-width: 389px)
+{
+
+}
 
