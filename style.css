@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*
+{
+     font-family: 'Poppins', sans-serif;
+}
+body
+{
+     background-color: #000;
+}
+/* #0E0E0E = background-color for menu */
+/* #F25365 = color for selection bar */
+/* #DCDCDC = color for text and heart */
+/* #2273C2 = color for pause button */
+/* #414141 = background-color for buttons */
+.box
+{
+     background-color: #121212;
+     margin: 3% 35%;
+     width: 24%;
+     height: 570px;
+}
+.menu
+{
+     padding: 10px;
+     align-items: center;
+
+}
+.menu a
+{
+     color: #DCDCDC;
+     font-size: 15px;
+     text-decoration: none;
+     text-transform: uppercase;
+     padding-left: 40px;
+}
+.menu i
+{
+     color: #2273C2;
+     padding-left: 20px;
+}
+.menu a.active
+{
+     color: #2273C2;
+     font-weight: bold;
+}
+.freq
+{
+     text-align: center;
+     color: #DCDCDC;
+}
+.freq p
+{
+     font-family: "Century Gothic";
+     font-size: 60px;
+     line-height: 1px;
+}
+.freq span
+{
+     font-size: 15px;
+     
+}
+.freq i
+{
+     margin-top: -30px;
+}
+.freq h3
+{
+     margin-top: -40px;
+}
+.liste
+{
+     color: #fff;
+     font-size: 12px;
+     margin-left: 20px;
+}
+.vertic
+{
+     margin-left: 30px;
+}
+.vertic p
+{
+     color: #414141;
+}
+.vertic span
+{
+     color: #F25365;
+     text-shadow: #F25365 1px 0px 5px;
+     font-size: 40px;
+}
+.div
+{
+     display: flex;
+     margin-left: 20px;
+     margin-top: -35px;
+}
+.div p
+{
+     font-size: 10px;
+     color: #fff;
+}
+.first
+{
+     margin-right: 223px;
+}
+.radio
+{
+     align-items: center;
+     margin-top: 40px;
+     margin-left: 70px;
+}
+.radio img
+{
+     height: 45px;
+     margin-left: 60px;
+}
+.radio p
+{
+     color: #414141;
+     margin-top: 5px;
+     font-size: 13px;
+     font-weight: bold;
+}
+
+.controlButtons
+{
+     display: flex;
+     align-items: center;
+     margin-left: 60px;
+}
+.divBut
+{
+     background-color: #414141;
+     margin-right: 25px;
+     /* height: 10px; */
+     width: 25px;
+     padding: 10px;
+     border-radius: 50%;
+     text-align: center;
+}
+.divBut a
+{
+     text-decoration: none;
+     color: #fff;
+     font-size: 12px;
+     font-weight: bold;
+}
+#divBut
+{
+     /* height: 25px; */
+     width: 60px;
+     padding: 5px;
+}
+
+
