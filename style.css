@@ -144,9 +144,32 @@ body
      width: 60px;
      padding: 5px;
 }
-
-@media screen and (min-width: 100px) and (max-width: 389px)
+.para
 {
-
+     text-align: center;
+     color: #fff;
+}
+.frequences
+{
+     margin: 40px 0px 20px 30px;
+}
+.frequences a
+{
+     color: #fff;
+     text-decoration: none;
+     display: block;
+}
+.more
+{
+     margin-left: 30px;
+     margin-bottom: 104px;
+}
+.more a
+{
+     padding: 10px;
+     border-radius: 5px;
+     text-decoration: none;
+     background-color: #414141;
+     color: #2273C2;
 }
 
