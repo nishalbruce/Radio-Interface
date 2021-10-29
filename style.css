@@ -158,11 +158,12 @@ body
      color: #fff;
      text-decoration: none;
      display: block;
+     width: 200px;
 }
 .more
 {
      margin-left: 30px;
-     margin-bottom: 104px;
+     margin-bottom: 84px;
 }
 .more a
 {
